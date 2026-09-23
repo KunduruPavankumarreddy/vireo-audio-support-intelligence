@@ -146,31 +146,39 @@ After cleaning:
 ## Project Structure
 
 ```text
-vireo-audio-support-intelligence/
+vireo_audio/
+├── app/
+│   └── streamlit_app.py
 │
 ├── data/
-│   ├── tickets.csv
 │   ├── agents.csv
+│   ├── clean_tickets.csv
+│   ├── customer_message_embeddings.npy
 │   ├── customers.csv
+│   ├── latest_ai_summary.txt
 │   ├── orders.csv
-│   └── products.csv
+│   ├── products.csv
+│   ├── support-policy.pdf
+│   └── tickets.csv
 │
 ├── docs/
 │   └── memo_to_priya_raman.md
 │
+├── notebooks/
+│   ├── 01_data_inspection.ipynb
+│   └── repeat_contact_validation_50_labeled.csv
+│
 ├── src/
+│   ├── ai_summary.py
 │   ├── cleaning.py
-│   ├── metrics.py
-│   ├── repeat_contacts.py
 │   ├── digest.py
 │   ├── leaderboard.py
-│   ├── ai_summary.py
-│   └── pipeline.py
+│   ├── metrics.py
+│   ├── pipeline.py
+│   └── repeat_contacts.py
 │
-├── streamlit_app.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+├── .gitignore
+└── README.md
 ```
 
 ---
