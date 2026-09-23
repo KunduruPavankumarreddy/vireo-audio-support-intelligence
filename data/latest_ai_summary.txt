@@ -1,0 +1,23 @@
+1.  Theme name
+    Double Billing
+    Description
+    Customers are being charged more than once for their orders.
+    Supporting ticket IDs
+    TK-254800
+    TK-254774
+
+2.  Theme name
+    Refund Delays
+    Description
+    Customers are experiencing significant delays in receiving promised refunds.
+    Supporting ticket IDs
+    TK-254721
+    TK-254632
+
+3.  Theme name
+    Delivery Issues
+    Description
+    Customers are reporting issues with their deliveries, including incorrect items and order status discrepancies.
+    Supporting ticket IDs
+    TK-254789
+    TK-254684

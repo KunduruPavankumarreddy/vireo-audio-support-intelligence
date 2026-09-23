@@ -1,0 +1,231 @@
+new_ticket_id,previous_ticket_id,customer_id,product_sku,category,days_after_resolution,previous_customer_message,new_customer_message,manual_label,review_notes
+TK-253069,TK-252750,C100509,VA-EB-PL1,Delivery & Shipping,6.220138888888889,[IVR transcript] hello it has been 10 days and i have nothing in hand my pulse ??,"[IVR transcript] Hi, This is regarding my Pulse. It has been 21 days and I have nothing in hand. I checked with neighbours. Nothing changed. Please help. Awaiting response, Sunita",1,Same undelivered-order complaint; second contact reports order still not received.
+TK-241070,TK-240610,C100149,VA-HP-ST3,Connectivity,29.81597222222222,"Got Strata 3 from vireo.in recently. Cannot pair Strata 3 w/ my laptop.
+I restarted the phone. Nothing changed.
+What do I do now?
+Plesae revert Vivaan","I bought the strata 3 on January 30. Bluetooth keeps cutting out.
+I reset both devices.
+Need this sorted this week.
+Please revert,",0,"Related connectivity category, but laptop pairing failure differs from Bluetooth dropouts."
+TK-249915,TK-249530,C105013,VA-SP-MINI,Audio Quality,11.908333333333331,bluetooth keeps cutting out,buzzing sound from the speaker. VR899510. can someone fix this?,0,Different audio symptoms: Bluetooth disconnects versus speaker buzzing.
+TK-246902,TK-245751,C109408,VA-EB-PL2,Charging & Battery,29.058333333333334,"Dear Sir/Madam, I bought Pulse2 on July 15. Firmware update stuck for 2 hours. I kept it in the case. Nothing changed. Very poor quality. How do I get this fixed? Thanks & regards Dev Patil","Dear Sir/Madam, Same problem again. This is regarding the Pulse 2 earbuds. After the update prompt it went dark and never came back. I kept phone nearby. Honestly regretting this purchase. Please advise. Thanks & regards Dev Patil",1,Same firmware/update failure; update remains stuck/failed.
+TK-251138,TK-250787,C101501,VA-EB-PL2,Audio Quality,10.521527777777775,"Hello, I bought pulse 2 buds on 13 Dec. Everything sounds like it is coming from one direction now. I want a replacement. Thank you Om","Hello,
+Got the Pulse 2 earbuds from Flipkart 3 weeks back. No sound from the right earbud.
+How do I get this fixed?
+Thank you,",1,Same underlying one-sided audio failure on Pulse 2.
+TK-249694,TK-248888,C103635,VA-EB-PL2,Charging & Battery,23.025,"Product: Pulse2
+Order: VR888820
+Purchased: 06-10-2025
+Issue: no sound from the right earbud
+Tried: reset the buds
+Expected: refund",This is the third time. This is regarding my Pulse 2. One of them is just decoration at this point. What do I do now? Thanks Daniel Kaur,1,Same no-sound/right-earbud failure; wording indicates repeated attempts.
+TK-254177,TK-254160,C106434,VA-AC-CH65,Billing & Payments,0.3006944444444444,"Dear Sir/Madam,
+
+I am writing with reference to my order of 65W charger (VR905594) placed on 03-06-2026. The festive offer vanished whhen I clicked pay. I have tried on app and website. I request you to provide a resolution within 3 working days.
+
+Sincerely,
+Imran Arora","[IVR transcript] UPI shows success, your app shows nothing, VR905594, kindly look into it",0,Different billing issues: missing promotion versus UPI payment/order confirmation.
+TK-254599,TK-254208,C100615,VA-EB-PL2,Other,6.496527777777778,"This is regarding Pulse2.  Crackling sound in the left side. I want a replacement. Please revert, Faisal Varghese","Again the same thing. This is regarding pulse 2 buds. Buzzing sound frrom the speaker.
+Can someone fix this?
+Please reveert Faisal Varghese",1,Same Pulse 2 audio distortion complaint; crackling/buzzing are closely related symptoms.
+TK-254605,TK-254470,C108049,VA-EB-PL2,Other,4.613888888888889,"change of mind, please stop the shipment - VR881741","Dear team,
+Bought the Pulse 2 earubds around 15/05 from Flipkart.  App not opening after update.
+I reinstalled the app.
+Please advise.
+Regards Amit",0,Different issues: shipment cancellation versus app failure after update.
+TK-251629,TK-250540,C108116,VA-HP-ST3,Returns & Refunds,26.538194444444443,"Raised this 3 weeks ago and was told it was resolved.
+got a different colour than ordered
+VR898394
+please call me on my registered number",[IVR transcript] Fourth time writing about the same thing. wrong product delivered i want my money back,1,Same wrong-product/color delivery issue; new ticket explicitly says same thing.
+TK-254747,TK-254364,C108607,VA-EB-PL2,Returns & Refunds,12.236805555555556,"Namaste,
+Ordered pulse 2 buds in May. Still waiting for my refund.
+Please advise.
+Thanks & regards","Namaste, I bought Pulse 2 on 13 May. Refund was promised 4 days ago and nothing. I want a replacement. Thanks & regards, Vivaan Menon",1,"Same refund-not-received issue, despite new request for replacement."
+TK-246605,TK-245412,C105719,VA-AC-CASE,Delivery & Shipping,25.353472222222223,"Bougght replacement case around October 02 from vireo.in. There's a dent on the case straight out of the box. I took photos. Nothing changed. Waiting for your reply. Thanks & regards,",Writing again because the issue is back. Bought spare case around 02/10 from vireo.in. Received damaged product. I refused nothing as I didn't notice till later. Nothing changed. Please help. Tanks & regards Diya,1,Same damaged replacement-case complaint.
+TK-244380,TK-244237,C103366,VA-AC-CASE,Billing & Payments,4.063888888888889,"Hi, Bought replacement case around 15-08-2025 from vireo.in. Paiid via UPI, amount deducted, no order confirmation. I waited 24 hours. Nothing changed. Please call me on my registered number. Awaiting response","Hi, I bought spare case on August 15. UPI shows success, your app shows nothing. I checked bank statement. Honestly regretting this purchase. Please resolve asap. Awaiting response Neha",1,Same UPI payment succeeded but order/confirmation missing.
+TK-254436,TK-253501,C105010,VA-EB-PL1,App & Firmware,27.619444444444444,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of my Pulse placed on 13/02. Firmware update is stuck at 89%. I have kept it in the case. I requset you to provide a resolution within 3 working days.
+
+Sincerely,
+Sai Bhatia
+Thiruvananthapuram","Dear Sir/Madam,
+
+Still not fixed after your last 'resolution'. I am writing with reference to my order of Pulse earbuds placed on February 13. Firmware update is stuck at 99%. I have restarted the app. I rqeuest you to provide a resolution within 3 working days.
+
+Yours faithfully,
+Sai Bhatia",1,Same firmware update stuck; only the percentage changed.
+TK-245505,TK-245357,C101758,VA-SP-MINI,Connectivity,4.216666666666667,This is very disappointing. Got Orbit Mini from vireo.in 3 weeks back. audio keeps disconnecting every few minutes. I already kept phone in hand. Fix this or I am posting on twitter.,"Honestly regretting this purchase.  Bought orbit mini around 01/05 from vireo.in. audio keeps disconnecting every few minutes. I already turned off wifi. I want a replacement or refund, nothing else.",1,Same recurring audio-disconnect complaint on Orbit Mini.
+TK-246603,TK-246278,C102943,VA-AC-CASE,Returns & Refunds,7.116666666666666,"Dear Sir/Madam,
+
+I am writing with reference to my order of replacement case (VR892340) placed on October 23.  Refund not received yet. I have emailed twice. I request you to look into this matter at the earliest.
+
+Sincerely,
+Ritika Goyal","To the Vireo Customer Care Team,
+
+Your agent said it was fixed.  It is not. I am writing w/ reference to my order of the charging case I ordered (VR892340) placed on 23-10-2025. Refund not received yet. I have checked bank. I request you to provide a resolution within 3 working days.
+
+Sincerely,
+Ritika Goyal",1,Same refund-not-received complaint for the same order.
+TK-251049,TK-250433,C100943,VA-EB-PL2,Charging & Battery,18.04513888888889,"[IVR transcript] case does not charge, no ligght at all. please advise","dear sir/madam,
+
+third time now. i am writing wth referecne to my order of pulse 2 buds (vr885808) placed on 09 jan. the charging case is not charging. i hae tried wireless charrging pad. i request you to provide a resolution within 3 working days.
+
+regards,
+shreya bansal
+kolkata",1,Same charging-case not charging complaint.
+TK-240531,TK-240394,C105220,VA-EB-PL1,Delivery & Shipping,8.247222222222222,"hii
+it has been 12 days and i have nothing in hand","This is teh second time I am writing about this., it has beeen 7 days and I have nothing in hand, VR881853",1,Same undelivered-order complaint; wording/timeline changed but issue is identical.
+TK-240797,TK-240674,C105392,VA-EB-PL1,Charging & Battery,8.414583333333333,"i am losiing patience. the pulse buds purchased recently, order vr886406. right side works perfectly, left one just does not wake up. i already did the reset from the manual. escalate this to someone senior.","product: my pulse
+order: vr886406
+purchased: 20/01
+issue: i have to charge it twice a day now, it used to last days
+tried: updated teh app
+expected: refund",0,Different battery symptom from prior left-earbud power/wake failure.
+TK-242652,TK-242617,C106307,VA-SW-NX2,Returns & Refunds,0.7548611111111111,Very poor quality. Got Nexa 2 from Flipkart 2 weeks ago. nobody came for the pickup. I already rescheduled pickup twice. Fix this or I am posting on twitter,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of Nexa 2 placed on May 16. Where is the money for the return. I have emailed twice. I request you to process a refund to my original payment method.
+
+Regards,
+Mohammed Qureshi",0,Different return workflow stages: missed pickup versus missing refund.
+TK-244645,TK-243749,C104948,VA-EB-PL1,Returns & Refunds,27.346527777777776,"hi
+the app said pickup today, that was on 10/07
+urgent","Yet again.
+Product: Pulse earbuds
+Order: VR880146
+Purchased: July 10
+Issue: the app said pickup today, that was on July 10
+Tried: rescheduled pickup twice
+Expected: resolution",1,Same missed return-pickup issue for the same order/product.
+TK-243955,TK-243445,C107935,VA-SP-ORB,Delivery & Shipping,17.463194444444444,"Writing again because the issue is back., I ordered the Orbit smart speaker and got something else, i want a replacement",FOURTH TIME WRITING ABOUT THE SAME THING. wrong product delivered,1,Same wrong-product delivery complaint.
+TK-241621,TK-241377,C108662,VA-EB-PL1,Billing & Payments,14.61111111111111,"Dear Sir/Madam,
+
+I am writing with reference to my order of Pulse earbuds placed on 26-03-2025. Paid via UPI, amount deducted, no order confirmation. I have checked bank statement. I request you to look into this matter at the earliest.
+
+Sincerely,
+Sunita Fernandes
+Chennai","hi
+your agent said it was fixed. it is not.
+paid via upi, amount deducted, no order confirmation
+help",1,Same UPI payment deducted but no order confirmation.
+TK-245815,TK-245036,C104033,VA-EB-PL1,Connectivity,23.384722222222223,"Dear Sir/Madam,
+
+I am writing with reference to my order of pulse 1 placed on 12 Feb. It connects for a second and then vanishes from the device list. I have tried on another phone. I request you to kindly arrange a replacement.
+
+Yours faithfully,
+Neha Mukherjee","Dear Sir/Madam,
+
+I am writing with reference to my order of the Pulse buds placed on 12/02. It connects for a second and then vanishes from the device list. I have tried on another phone. I request you to process a refund to my original payment method.
+
+Sincerely,
+Neha Mukherjee",1,Same connectivity failure: device connects then disappears from device list.
+TK-254564,TK-253938,C104203,VA-HP-ST2,Audio Quality,19.279166666666665,"Product: my Strata 2 headphones
+Order: VR906256
+Purchased: 20-04-2026
+Issue: crackling sound in the right side
+Tried: tried different apps
+Expected: callback","Same issue as before, it came back after 2 weeks.  Ordered Strata 2 in April. Static noise when playing music. I tried different apps. I have been a loyal customer and this is how you treat me. Waiting for your reply.",1,Same recurring audio distortion complaint; crackling/static are closely related.
+TK-241008,TK-240590,C105087,VA-SW-NX2,Billing & Payments,27.225694444444443,"Dear team,
+Bought my Nexa 2 watch around 08/02 from vireo.in. Coupon code not working.
+I tried in caps. Nothing changed.
+What do I do now?","Dear team, Same issue as before, it came back after 2 weeks.  Order VR887045 (my Nexa 2 watch). Coupon code not working. I tried on app and website. Nothing changed. Please call me on my registered number.",1,Same coupon/promotion code failure on the same product/order.
+TK-251007,TK-250812,C109118,VA-EB-PL1,Connectivity,6.097916666666666,"hello
+bluetooth pairing faills every time",Pathetic expereince honestly. WRITING AGAIN BECAUSE THE ISSUE IS BACK. Ordered my Pulse lst week. my phone just doesn't see it in the list anymore. I already forgot the device and tried again. This is the last time I buy from you.,1,Same Bluetooth discovery/pairing problem.
+TK-250146,TK-250009,C104953,VA-SW-NX2,Delivery & Shipping,4.165277777777778,"got my nexa 2 watch from amazon last week. it has been 10 days and i have nothing in hand.
+i checked the tracking page daily. nothing changed.
+please help.",it has been 10 days and i hve nothing in hand - please advise,1,Same undelivered/tracking-not-updated complaint.
+TK-250767,TK-249939,C105645,VA-EB-PL2,Delivery & Shipping,22.33125,"Hello,
+I bought my Pulse 2 on 24/01. I haven't received my order.
+I checked the tracking page daily. Nothing changed.
+Can someone fix this?
+Thanks & regards Yash","paid on January 24, still waiting for smoething to show up, i want my money back",1,"Same undelivered-order problem, with refund now requested."
+TK-254532,TK-254326,C107943,VA-AC-CASE,Delivery & Shipping,1.7506944444444446,"I bought the charging cse I ordered on 11-06-2026. Received damaged product. Pleasse help. Thanks in advance, Divya Patil","Product: replacement caes
+Order: VR888710
+Purchased: 11/06
+Issue: order not delivered, tracking not updating
+Tried: checked wtih neighbours
+Expected: callback",0,Different issues: prior damaged product versus current undelivered/tracking issue.
+TK-245966,TK-244993,C105504,VA-EB-PL2,Audio Quality,28.49513888888889,"Hi, Bought my Pulse 2 around 25-07-2025 from vireo.in.  RIGHT EARBUD COMPLETELY SILENT. I tried different phone. Nothing changed. Kindly look into it. Please revert, Yash",THIS IS VERY DISAPPOINTING. I bought my Pulse 2 on 25-07-2025. right earbud completely silent. I already checked balance settings. This is the last time I buy from u,1,Same right-earbud silent complaint on the same product/date.
+TK-243749,TK-243536,C104948,VA-EB-PL1,Returns & Refunds,7.478472222222222,"Product: my Pulse
+Order: VR880146
+Purchased: 10 Jul
+Issue: the app said pickup today, that was on 10 Jul
+Tried: rescheduled pickup twice
+Expected: refund","hi
+the app said pickup today, that was on 10/07
+urgent",1,Same return-pickup problem for the same order.
+TK-254833,TK-254061,C106690,VA-EB-PL2,Returns & Refunds,22.40138888888889,"hi
+packed the box a week ago and it's still here
+pulse2 VR904625","This is the second time I am writnig about this.
+Product: my Pulse 2
+Order: VR904625
+Purchased: 18 May
+Issue: pickup scheduled but no one showed up
+Tried: rescheduled pickup twice
+Expected: replacement",1,Same return-pickup no-show complaint for the same order.
+TK-249354,TK-248815,C105494,VA-EB-PL1,Returns & Refunds,14.19097222222222,"Dear Sir/Madam,
+
+I am writing w/ reference to my order of pulse 1 (VR908098) placed on 31/12. Reeturn pickup has not happened. I hve called courier. I request u to look into this matter at the earliest.
+
+Yours faithfully,
+Nisha Kulkarni
+Surat","Hi Vireo support,
+Same problem again. Order VR908098 (the Pulse buds). Return pickup has not happened.
+I rescheduled pickup twice. Nothing changed.
+What do I do now?
+Thank u,",1,Same return-pickup failure for the same order.
+TK-248265,TK-247143,C103511,VA-EB-PL2,Charging & Battery,28.03333333333333,"not what i expected from vireo. got my pulse 2 from amazon last month. charging case dead, tried 3 cables. i already charged for 6 hours nothing. fix this or i am posting on twitter.","still not fixed after ur last 'resolution'.
+the case has been at the same battery level for a week
+pls advise",1,Same charging-case failure; battery remains at a low/fixed level.
+TK-246906,TK-246381,C102274,VA-EB-PL2,Returns & Refunds,10.040277777777778,Very poor quality. Bought Pulse 2 around 03-10-2025 from vireo.in. nobody came for the pickup. I already rescheduled pcikup twice. Refund. Now,"Product: my Pulse 2
+Purchased: October 03
+Issue: I have been sitting at home for 3 days waiting for ur courier
+Tried: rescheduled pickup twice
+Expected: callback",1,Same return-pickup failure; repeated courier no-show.
+TK-250731,TK-250232,C108933,VA-SW-FIT,Returns & Refunds,14.295833333333333,[IVR transcript] Pathetci experience honestly. Bought the fit band around 11-02-2026 from vireo.in. packed the box a week ago and it's still here. I alerady called courier. Escalate this to someone senior.,"Hi Vireo support, This is regardding my Nexa Fit band. The return was accepted but teh amuont is nowhere in my account. I checked bank. Nothing changed. Need this sorted this week. Awaitting response Sneha",0,Different return stages: prior pickup delay versus later refund-not-received.
+TK-253027,TK-252365,C105834,VA-SP-MINI,Delivery & Shipping,21.103472222222223,"Namaste, Orbit Mini purchased 10 days ago, order VR902954. Ordered black, got white, not what I asked for. I checked the invoice. Please call me on my registered number. Rgds Varun Bhatt","Namaste, Got the mini speaker from vireo.in 10 days ago.  Ordered black, got white, not what I asked for. I rechecked my order. Nothing changed. How do I get this fixed? Rgds Varun Bhatt",1,Same wrong-color delivery complaint.
+TK-245295,TK-244951,C109165,VA-AC-CH65,Other,11.266666666666667,"hi
+my bank shows the same amount twice on the same day","hi sir
+entered wrong pincode
+the gan charger
+pls reply",0,Different billing issues: duplicate charge versus wrong pincode.
+TK-245209,TK-244241,C100006,VA-EB-AIR,Delivery & Shipping,29.803472222222226,"Namaste, This is regarding AirLite. My order has not been delivered yet. I callled the courier. How do I get this fixed? Please revert,","Namaste, Yet again. Got airlite earbuds from Amazon 3 weekks back. Paid on 29-08-2025, still waiting for something to show up. I checked the tracking page daily. I want a replacement. Please revert Priya",1,Same undelivered AirLite order complaint.
+TK-253710,TK-253388,C108731,VA-EB-PL2,Billing & Payments,9.177777777777775,your ad said 20% off and the cart says full price.  i want a replacemnet,"hi vireo support,
+teh pulse 2 earbuds purchased a month ago, order vr906818.  coupon code not working.
+i tried in caps.
+kindly look into it.
+plaese revert, swati varghese",1,Same promotion/coupon pricing problem; both are discount application failures.
+TK-249436,TK-249290,C102857,VA-EB-PL2,Returns & Refunds,3.0618055555555554,"Got my Pulse 2 from Amazon 10 dasy ago. The parcel looked like it was kicked here froom the warehouse, and the unit has a crack. I refused nothing as I didn't notice till later. Need this sorted this week. Thank you","Not what I expected from Vireo. Still not fixed after your lsat 'resolution'. Ordered Pulse 2 in January. screen has a crack before I even switched it on. I already took photos. I wannt a replacement or refund, nothing else",1,Same physical damage/cracked-unit complaint.
+TK-252818,TK-252223,C103042,VA-EB-PL2,Audio Quality,17.386805555555554,[IVR transcript] hello no sound from the right earbud,"hi,
+writing again because the issue is back.  this is regarding pulse 2. i hear music in one ear only, other is mute.
+i tried different phone.
+please help.
+thanks",1,Same one-ear/right-earbud no-sound complaint.
+TK-246007,TK-245830,C106004,VA-EB-PL2,Billing & Payments,4.345833333333333,"hi vireo support, bought my pulse 2 around 07/10 from vireo.in. your ad said 20% off and the cart says full price. i tried in caps. nothing changed. i want a replacement. regards sunita","hi vireo support,
+this was supposedly sorted by yuor team last time. i bought pulse 2 buds on 07 oct. your ad said 20% off and the cart says full price.
+i tried on app and website.
+how do i get this fixed?
+regards sunita",1,Same promotional discount discrepancy.
+TK-243960,TK-243298,C102660,VA-HP-ST3,Warranty & Repair,14.317361111111111,"HONESTLY REGRETTING THIS PURCHASE. This is regarding my Strata 3 headphones. I sent the unit in 4 days ago and have heard nothing. I already emailed twice. I want a replacement or refund, nothing else.","claim number RMA33271, anyone alive there?, please resolve asap",1,Same repair/RMA follow-up after sending the unit in.
+TK-242817,TK-242505,C102455,VA-SW-NX2,Other,17.163888888888888,"hello
+my phone just doesn't see it in the list anymore","hello
+my phone just doesn't see it in the list anymore
+help",1,"Same connectivity/discovery complaint, nearly identical wording."
+TK-240924,TK-240786,C109499,VA-EB-PL1,Charging & Battery,8.55625,"PRODUCT: PULSE EARBUDS
+ORDER: VR905937
+PURCHASED: 05/01
+ISSUE: GOES FROM FULL TO EMPTY DURING ONE COMMUTE
+TRIED: FULLY CHRGED AND DISCHARGED TWICE
+EXPECTED: REFUND","BATTERY DRAINS VERY FAST, BARELY LASTS 2 HOURS",1,Same battery-drain/short-runtime complaint.
+TK-253586,TK-253065,C106519,VA-EB-PL1,Charging & Battery,13.399305555555555,"really frustrating. i bought my pulse on february 19. the promised 45 hours is nowhere close, i get maybe 2. i already updated the app. this is the last time i buy from you.",honestly regretting this purchase. again the same thing. got the pulse buds from vireo.in last week. battery draining even when not in use. i already fully charged and discharged twice. refund. now.,1,Same battery-drain/poor-runtime complaint on Pulse earbuds.
+TK-250597,TK-250586,C102761,VA-SP-MINI,Other,0.3965277777777777,"[IVR transcript] honestly regretting this purchase. i bought orbit mini on february 12. paid via upi, amount deducted, no order confirmation. i already waited 24 hours. i waant a replacement or refund, nothing else.","dear sir/madam,
+i bought orbit mini on 12-02-2026. ordered the wrong colour, don't ship it.
+i tried cancel button, greyed out.
+please advise.
+awaiting response isha srivastava",0,Different payment/order-confirmation issue versus wrong-color cancellation.
+TK-252527,TK-252488,C103720,VA-EB-PL2,Other,1.0645833333333334,"Product: Pulse2
+Order: VR895340
+Purchased: 17 Apr
+Issue: paid on 17 Apr, still waiting for something to show up
+Tried: checked the tracking page daily
+Expected: replacement",cancel order VR895340. VR895340,0,Different issue: previous undelivered/tracking problem versus current order cancellation request.
